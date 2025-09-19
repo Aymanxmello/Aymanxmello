@@ -18,21 +18,19 @@ Passionate about crafting **visually stunning, user-friendly, and impactful web 
 
 ## 💻 Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://c.tenor.com/8oLXTDj4WeYAAAAi/animated-html5.gif" height="40px" />
+  <img src="https://c.tenor.com/lE-wjkY3j6gAAAAi/animated-css.gif" height="40px" />
+  <img src="https://c.tenor.com/9bcdY8d_J6kAAAAi/javascript-js.gif" height="40px" />
+  <img src="https://c.tenor.com/X8PbHqSk72gAAAAi/adobe-illustrator.gif" height="40px" />
+  <img src="https://c.tenor.com/BXqU0u7duJEAAAAi/photoshop-adobe.gif" height="40px" />
+  <img src="https://c.tenor.com/hlwOJ2H1R6UAAAAi/figma.gif" height="40px" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aymanxmello&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aymanxmello&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&animation=true" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymanxmello&theme=radical&hide_border=false" height="180px"/>
 </p>
 
