@@ -1,288 +1,354 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:0F1E35,100:00FFD1&height=220&section=header&text=AYMEN%20ZEMRANI&fontSize=52&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Architect%20%7C%20Flutter%20Expert%20%7C%20UI%2FUX%20Specialist&descSize=16&descAlignY=58&descColor=A259FF"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:00c8ff,100:a855f7&height=240&section=header&text=AYMEN%20ZEMRANI&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Development%20Specialist&descSize=18&descAlignY=58&descColor=00c8ff"/>
 
 </div>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  > SYSTEM BOOT...............................................[ OK ]   ║
-║  > LOADING DEVELOPER PROFILE...............................[ OK ]   ║
-║  > INITIALIZING FLUTTER ENGINE.............................[ OK ]   ║
-║  > WELCOME TO AYMEN'S TERMINAL_                                     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=flutter+run+--release+%F0%9F%9A%80;Building+cross-platform+mobile+apps;Swift+%7C+Kotlin+%7C+Flutter+%7C+React+Native;15%2B+Apps+Published+%C2%B7+100K%2B+Downloads;Available+for+freelance+%26+contracts+%E2%9C%85" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=00C8FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=flutter+build+--release+%E2%9C%93;xcrun+simctl+boot+iPhone_15;100K%2B+downloads+achieved+%F0%9F%9A%80;gradlew+assembleRelease+%E2%9C%93;Available+for+collaboration+%E2%9C%93" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## `$ whoami`
-
-```yaml
-name        : Aymen Zemrani
-role        : Mobile App Architect
-location    : Casablanca, Morocco  (GMT+1)
-experience  : 5+ years
-status      : 🟢 Open for projects
-rate        : $50–100 / hour
-response    : < 12 hours
-```
-
-> *"The best mobile apps are invisible — they just work."*
-
----
-
-## `$ cat skills.json`
-
 <div align="center">
 
-### ─── Cross-Platform ───
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=00FFD1)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ─── Native iOS ───
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0078D7?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
-### ─── Native Android ───
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-### ─── Backend & Cloud ───
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ─── Design & Tools ───
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ░░░░░░  DEVELOPER TERMINAL  ░░░░░░                             ║
+║                                                                  ║
+║  $ whoami                                                        ║
+║  > aymen_zemrani — Mobile Developer, Flutter Expert, UI Wizard  ║
+║                                                                  ║
+║  $ cat philosophy.txt                                            ║
+║  > "The best mobile apps are invisible — they just work"        ║
+║                                                                  ║
+║  $ status                                                        ║
+║  > 🟢 ONLINE · Building the next big thing · GMT+1 Casablanca   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## `$ ls -la projects/`
-
 <div align="center">
+
+## 📊 LIVE STATS
+
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 📱 FitTrack Pro
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=00FFD1)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://img.shields.io/badge/dynamic/json?color=00c8ff&label=Apps%20Published&query=value&url=https%3A%2F%2Fimg.shields.io&style=flat-square" />
 
-```
-Downloads  : 50K+
-Rating     : ⭐ 4.8 / 5.0
-Platform   : iOS + Android
-Stack      : Flutter · Firebase · ML Kit
-Feature    : AI workout insights
+### `15+`
+**Apps Live**
+*iOS & Android*
+
+</td>
+<td align="center" width="25%">
+
+### `100K+`
+**Downloads**
+*All platforms*
+
+</td>
+<td align="center" width="25%">
+
+### `4.7 ⭐`
+**Avg Rating**
+*User satisfaction*
+
+</td>
+<td align="center" width="25%">
+
+### `50K+`
+**Monthly Active**
+*Users worldwide*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 DEVELOPER PROFILE
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
+
+### 🖥️ MOBILE DEV STATS
+
+```yaml
+# profile.yaml
+developer:    Aymen Zemrani
+role:         Mobile Development Specialist
+location:     Casablanca, Morocco · GMT+1
+
+platforms:
+  - ▓▓▓▓▓▓▓▓▓▓ Flutter / Dart      96%
+  - ▓▓▓▓▓▓▓▓▒▒ Swift / SwiftUI     88%
+  - ▓▓▓▓▓▓▓▓▒▒ Kotlin / Compose    85%
+  - ▓▓▓▓▓▓▓▓▒▒ React Native        80%
+  - ▓▓▓▓▓▓▓▓▓▒ UI/UX Design        90%
+
+experience:   5+ years
+apps_live:    15+
+downloads:    100K+
+avg_rating:   4.7 ⭐
+status:       🟢 Available
 ```
 
 </td>
-<td align="center" width="33%">
+<td width="45%">
 
-### 🛒 ShopEase
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+### 🎯 SKILL MAP
 
-```
-Users      : 30K+ active
-Rating     : ⭐ 4.6 / 5.0
-Platform   : iOS + Android
-Stack      : RN · Node · Stripe
-Feature    : 1-tap checkout
-```
-
-</td>
-<td align="center" width="33%">
-
-### 🎵 BeatFlow
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0078D7?style=flat-square&logo=swift&logoColor=white)
-
-```
-Award      : iOS Featured App
-Rating     : ⭐ 4.9 / 5.0
-Platform   : iOS native
-Stack      : Swift · SwiftUI · AVKit
-Feature    : Offline playback
+```mermaid
+mindmap
+  root((AYMEN))
+    📱 Cross Platform
+      Flutter
+      React Native
+      Dart
+    🍎 iOS
+      Swift
+      SwiftUI
+      UIKit
+    🤖 Android
+      Kotlin
+      Compose
+    ☁️ Backend
+      Firebase
+      GraphQL
+      REST APIs
 ```
 
 </td>
 </tr>
 </table>
-</div>
 
 ---
-
-## `$ flutter doctor`
-
-```bash
-~/projects $ flutter doctor
-
-[✓] Flutter (Channel stable, 3.19.0, on macOS 14.2)
-[✓] Android toolchain - develop for Android devices (Android SDK 34)
-[✓] Xcode - develop for iOS and macOS (Xcode 15.2)
-[✓] Chrome - develop for the web
-[✓] Android Studio (version 2023.1)
-[✓] VS Code (version 1.85.2)
-[✓] Connected device (3 available)
-[✓] Network resources
-
-• No issues found! ✓
-
-~/projects $ _
-```
-
----
-
-## `$ git log --stats`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aymanxmello&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E1A&title_color=00FFD1&icon_color=A259FF&ring_color=00FFD1&text_color=7A9AB8&border_color=1E2D45"/>
+## 🛠️ TECH ARSENAL
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aymanxmello&theme=chartreuse-dark&hide_border=true&background=0A0E1A&stroke=1E2D45&ring=00FFD1&fire=FF6B35&currStreakLabel=00FFD1&sideLabels=7A9AB8&currStreakNum=FFFFFF&sideNums=A259FF"/>
+### ▸ Cross-Platform
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript&theme=dark&perline=5"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymanxmello&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0E1A&title_color=00FFD1&text_color=7A9AB8&langs_count=8"/>
+### ▸ Native Mobile
+<img src="https://skillicons.dev/icons?i=swift,kotlin,java,androidstudio,xcode&theme=dark&perline=5"/>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aymanxmello&custom_title=Contribution+Graph&hide_border=true&bg_color=0A0E1A&color=00FFD1&line=A259FF&point=FF6B35&area=true&area_color=00FFD1"/>
+### ▸ Backend & Cloud
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,graphql,mongodb,postgres&theme=dark&perline=5"/>
+
+### ▸ Design & Workflow
+<img src="https://skillicons.dev/icons?i=figma,git,github,docker,linux&theme=dark&perline=5"/>
 
 </div>
 
 ---
-
-## `$ cat metrics.txt`
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 📱 Apps Published | **15+** iOS & Android |
-| ⬇️ Total Downloads | **100K+** across all platforms |
-| ⭐ Average Rating | **4.7 / 5.0** user satisfaction |
-| 👥 Monthly Active Users | **50K+** |
-| ⚡ Avg App Performance | **60fps** smooth |
-| 🏆 App Store Features | **2×** iOS Featured |
+## 📈 GITHUB METRICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aymanxmello&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF&border_radius=8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aymanxmello&theme=radical&hide_border=true&background=0D1117&stroke=00C8FF&ring=A855F7&fire=FF6D00&currStreakLabel=00C8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=8" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymanxmello&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=FFFFFF&langs_count=8&border_radius=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aymanxmello&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00C8FF&line=A855F7&point=FFFFFF&area=true&area_color=00C8FF&theme=react-dark&border_radius=8" />
 
 </div>
 
 ---
 
-## `$ cat workflow.sh`
+<div align="center">
+
+## 🏆 TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aymanxmello&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📱 FEATURED PROJECTS
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📲 FitTrack Pro
 
 ```
- DESIGN ──▶ PROTOTYPE ──▶ CODE ──▶ TEST ──▶ SHIP ──▶ MONITOR ──▶ ITERATE
-    📝          🎨           💻       🧪       🚀        📊          🔄
+┌─────────────────┐
+│  ░░ FitTrack ░░ │
+│                 │
+│  💪 Workouts    │
+│  📊 Analytics   │
+│  🤖 ML Insights │
+│                 │
+│  ██████████ 87% │
+└─────────────────┘
+```
 
- Tools:  Figma · Flutter · XCTest · Fastlane · Firebase Analytics
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+**50K+ Downloads · ⭐ 4.8**
+
+</td>
+<td align="center" width="33%">
+
+### 🛒 ShopEase
+
+```
+┌─────────────────┐
+│  ░░ ShopEase ░░ │
+│                 │
+│  🛍️ Products    │
+│  💳 Checkout    │
+│  🔔 Push Notif  │
+│                 │
+│  ██████████ 92% │
+└─────────────────┘
+```
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+**30K+ Active Users · ⭐ 4.6**
+
+</td>
+<td align="center" width="33%">
+
+### 🎵 BeatFlow
+
+```
+┌─────────────────┐
+│  ░░ BeatFlow ░░ │
+│                 │
+│  🎵 Streaming   │
+│  📱 Offline     │
+│  🔗 Social      │
+│                 │
+│  ██████████ 99% │
+└─────────────────┘
+```
+
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-0078D7?style=for-the-badge&logo=swift&logoColor=white"/>
+
+**iOS Featured App · ⭐ 4.9**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🔧 DEVELOPMENT WORKFLOW
+
+</div>
+
+```mermaid
+graph LR
+    A([📝 Design]) --> B([🎨 Prototype])
+    B --> C([💻 Develop])
+    C --> D([🧪 Test])
+    D --> E([🚀 Deploy])
+    E --> F([📊 Monitor])
+    F -->|Iterate| A
+
+    style A fill:#00C8FF,stroke:#fff,stroke-width:2px,color:#000,rx:8
+    style B fill:#A855F7,stroke:#fff,stroke-width:2px,color:#fff,rx:8
+    style C fill:#00C8FF,stroke:#fff,stroke-width:2px,color:#000,rx:8
+    style D fill:#FF6D00,stroke:#fff,stroke-width:2px,color:#fff,rx:8
+    style E fill:#00FF88,stroke:#fff,stroke-width:2px,color:#000,rx:8
+    style F fill:#A855F7,stroke:#fff,stroke-width:2px,color:#fff,rx:8
 ```
 
 ---
 
-## `$ ps aux | grep currently_building`
+<div align="center">
+
+## 🎯 CURRENTLY BUILDING
+
+</div>
 
 ```javascript
-const currentProjects = {
-  "HealthCare+": {
-    tech    : ["Flutter", "Firebase", "ML Kit"],
-    status  : "🟢 In Development",
-    progress: "▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  75%",
-    eta     : "Q2 2026"
+// currently_building.js  ·  last updated: 2025
+
+const projects = {
+
+  "HealthCare+ 🏥": {
+    tech:     ["Flutter", "Firebase", "ML Kit"],
+    status:   "🟢 In Development",
+    progress: "▓▓▓▓▓▓▓▓▒▒  75%",
+    features: ["Telemedicine", "AI Diagnostics", "Health Tracking"]
   },
-  "CryptoWallet Pro": {
-    tech    : ["React Native", "Blockchain API", "Biometrics"],
-    status  : "🟡 Beta Testing",
-    progress: "▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90%",
-    eta     : "Q1 2026"
+
+  "CryptoWallet Pro 🔐": {
+    tech:     ["React Native", "Blockchain API", "Biometrics"],
+    status:   "🟡 Beta Testing",
+    progress: "▓▓▓▓▓▓▓▓▓▒  90%",
+    features: ["Multi-currency", "Secure Tx", "Portfolio Analytics"]
   },
-  learning: ["Jetpack Compose", "SwiftUI 5", "Flutter 3.19", "AI/ML on-device"]
-}
+
+};
+
+const learning = ["Jetpack Compose", "SwiftUI 6", "Flutter 4", "AI/ML on Device"];
+
+export const letsBuildSomethingAmazing = true; // always 🚀
 ```
 
 ---
 
-## `$ cat principles.md`
+<div align="center">
+
+## 💡 DEV PRINCIPLES
+
+</div>
 
 ```diff
-+ 🎯  User-First      →  every feature must serve the user
-+ ⚡  Performance     →  60fps is the floor, not the goal
-+ 🎨  Design          →  beauty and function go hand in hand
-+ 🔒  Security        →  user data protection is non-negotiable
-+ 📊  Data-Driven     →  metrics guide every decision
-+ 🧪  Test Everything →  if it's not tested, it's broken
-+ 🚀  Ship Fast       →  iterate, learn, improve
++ 🎯  User-First    ··· Every feature must serve the user
++ ⚡  Performance   ··· 60fps is the minimum, not the goal  
++ 🎨  Design        ··· Beauty and function go hand in hand
++ 🔒  Security      ··· User data protection is non-negotiable
++ 📊  Data-Driven   ··· Metrics guide every decision
++ 🧪  Test First    ··· If it's not tested, it's broken
++ 🚀  Ship Fast     ··· Iterate, learn, improve
 ```
 
 ---
 
-## `$ cat trophies.log`
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aymanxmello&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title_color=00FFD1" width="100%"/>
-
-</div>
-
----
-
-## `$ ping aymen --availability`
-
-```
-PING aymen-zemrani.dev ... 
-64 bytes from Casablanca: status=OPEN  time=<12h
-64 bytes from Casablanca: rate=$50-100/hr  modes=[fulltime, parttime, contract, consulting]
-64 bytes from Casablanca: preferred=LinkedIn_DM or Email
-
-🟢 STATUS: AVAILABLE FOR NEW PROJECTS
-```
-
----
-
-## `$ open social_links/`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AymenZemrani)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/aymanxmello)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayman_x_mello)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Ayman_x_mello)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AymanElZmrani)
-
-📧 **contact@aymenzemrani.dev**
-
-</div>
-
----
-
-## `$ watch contribution_snake`
-
-<div align="center">
+## 🐍 CONTRIBUTION SNAKE
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aymanxmello/Aymanxmello/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aymanxmello/Aymanxmello/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Aymanxmello/Aymanxmello/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Aymanxmello/Aymanxmello/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -291,15 +357,139 @@ PING aymen-zemrani.dev ...
 
 <div align="center">
 
+## 📱 TESTING & CI/CD
+
+<img src="https://img.shields.io/badge/Flutter_Test-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/XCTest-147EFB?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 HIRE ME FOR
+
+<table>
+<tr>
+<td align="center" width="25%">
+
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║        © 2026 Aymen Zemrani · Mobile Dev · All Rights Reserved      ║
-║              Built with Flutter · Swift · Kotlin · ♥                ║
-╚══════════════════════════════════════════════════════════════════════╝
+  📱
+▓▓▓▓▓▓▓▓
+```
+**Mobile Dev**
+iOS · Android
+Cross-Platform
+
+</td>
+<td align="center" width="25%">
+
+```
+  🎨
+▓▓▓▓▓▓▓▓
+```
+**UI/UX Design**
+Figma · Research
+Prototyping
+
+</td>
+<td align="center" width="25%">
+
+```
+  ⚡
+▓▓▓▓▓▓▓▓
+```
+**Optimization**
+Performance
+Battery · Size
+
+</td>
+<td align="center" width="25%">
+
+```
+  🔧
+▓▓▓▓▓▓▓▓
+```
+**Maintenance**
+Updates · Bugs
+New Features
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 AVAILABILITY
+
+```typescript
+// availability.ts
+
+interface AymenZemrani {
+  status:          "🟢 Available Now";
+  hourlyRate:      "$50 – $100 / hour";
+  projectTypes:    ["Full-Time", "Part-Time", "Contract", "Consulting"];
+  timezone:        "GMT+1 · Casablanca, Morocco";
+  responseTime:    "< 12 hours";
+  minProjectSize:  "2 weeks";
+  contact:         "LinkedIn DM or contact@aymenzemrani.dev";
+}
+
+const ready: AymenZemrani["status"] = "🟢 Available Now";
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aymanxmello&label=PROFILE+VIEWS&color=00FFD1&style=for-the-badge)
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,50:A259FF,100:0A0E1A&height=120&section=footer&animation=fadeIn"/>
+---
+
+<div align="center">
+
+## 🌐 CONNECT
+
+<a href="https://linkedin.com/in/AymenZemrani">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
+</a>
+&nbsp;
+<a href="https://behance.net/aymanxmello">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="36"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/ayman_x_mello">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36"/>
+</a>
+&nbsp;
+<a href="https://youtube.com/@Ayman_x_mello">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="36"/>
+</a>
+&nbsp;
+<a href="https://facebook.com/AymanElZmrani">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="36"/>
+</a>
+&nbsp;
+<a href="mailto:contact@aymenzemrani.dev">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
+</a>
+
+<br/><br/>
+
+### 💬 *"The details are not the details. They make the design."* — Charles Eames
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aymanxmello&label=Profile+Views&color=00c8ff&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:a855f7,50:00c8ff,100:0a0a0f&height=140&section=footer&animation=fadeIn"/>
 
 </div>
